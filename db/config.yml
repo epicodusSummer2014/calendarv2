@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: calendar2_development
+
+test:
+  adapter: postgresql
+  database: calendar2_test
